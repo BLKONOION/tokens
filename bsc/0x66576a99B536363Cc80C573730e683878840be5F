@@ -1,0 +1,11 @@
+{
+ "name": "BLK Onion",
+ "website": "https://blkonion.org/",
+ "description": "LNG TOKEN.",
+ "explorer": "https://bscscan.com/address/0x66576a99b536363cc80c573730e683878840be5f",
+ "type": "BEP20",
+ "symbol": "BLO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x66576a99B536363Cc80C573730e683878840be5F"
+}
